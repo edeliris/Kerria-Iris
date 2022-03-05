@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎来到Kerria的博客！
 
-You can use the [editor on GitHub](https://github.com/edeliris/Kerria-Iris/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kerria，或者棣棠，亦称山吹，是一种淡黄色的小花，花语为尊贵。
+我终身不能成为尊贵的人，但我会终身仰慕那些高贵的精神。无私无畏、敢怒敢言。
+找准你脚下的路，认识你自己！
 
 ### Markdown
 
